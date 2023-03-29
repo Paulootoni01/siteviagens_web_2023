@@ -1,13 +1,15 @@
 ## Site Viagens Web I 2023
-#### Projeto desenvolvido na disciplina de web I
-1. HTML
-2. CSS
-3. VsCode
-4. GitHub
-**By Paulo Henrique
+#### Projeto desenvolvido na disciplina de Web I
 
+#### Tecnologias utilizadas
 
-![logo ifpr](https://github.com/Paulootoni01/siteviagens_web_2023/blob/a8a2bc4314e528b5f3b982d8a4fee85de054c0f6/download.png)
+ 1. HTML
+ 2. CSS
+ 3. VsCode
+ 4. GitHub
+
+![Logo do IFPR](https://github.com/prof-fernando-alves/siteviagens_webI_2023/blob/4489faa022cc2e625bb08a4817cd194df95683b7/logoifpr.png)
+ 
+ **By Fernando Alves**
 
 > Written with [StackEdit](https://stackedit.io/).
-> 
